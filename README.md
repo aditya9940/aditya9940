@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Developer ⚛️<br><br>👨‍💻 All of my projects are available at aditya9940<br><br>📝 I regularly write articles on LinkedIn<br><br>💬 Ask me about Java React javascript<br><br>📫 How to reach me aditya77605@gmail.com<br><br>⚡ Fun fact I think I am funny
+🌱 I’m currently learning Full Stack Developer ⚛️<br><br>👨‍💻 All of my projects are available at aditya9940<br><br>📝 I regularly write articles on LinkedIn<br><br>💬 Ask me about Java React javascript<br><br>📫 How to reach me aditya77605@gmail.com<br><br>
 
 
 ## 🌐 Socials:
